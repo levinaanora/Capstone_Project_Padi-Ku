@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "643957982569",
+    "project_id": "padi-ku-315404",
+    "storage_bucket": "padi-ku-315404.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643957982569:android:a7b92d32a6253ee95869f8",
+        "android_client_info": {
+          "package_name": "com.example.capstoneprojectpadiku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643957982569-rh4mrskmeh40ibcrqn3hfq23guvbgojn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhFsNBAJU5Wl8yq4heCTzVJCdjy92eRno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643957982569-rh4mrskmeh40ibcrqn3hfq23guvbgojn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
